@@ -2,9 +2,9 @@ MAKADIIKO (HOW ARE YOU?)
 
 Thank you for dowanloading my work...
 
-I have created this project as an example for a ToDo App
+I have created this project as an example for a ToDo App using Javascript.
 
-Feel free to modify and comment
+Feel free to modify.
 
 Dont forget to comment
 
