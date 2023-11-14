@@ -1,15 +1,17 @@
 MAKADIIKO (HOW ARE YOU?)
 
-Thank you for dowanloading my work...
+I have created this project as an example for a ToDo App
 
-I have created this project as an example for a ToDo App using Javascript.
++Features
+-Add a ToDo
+-Remove 
+-Localstorage functionality using the DOM
+-Dark Mode feature
 
-Feel free to modify.
+Feel free to modify
 
 Dont forget to comment
 
 Follow me on Twitter,Instagram @NyashaMadzoker
 
 Ko chebasa ?  (Payment lol)
-
-# CodeEditor
