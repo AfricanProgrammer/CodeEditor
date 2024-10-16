@@ -1,12 +1,7 @@
 MAKADIIKO (HOW ARE YOU?)
 
-I have created this project as an example for a ToDo App
+I have created this project as an example for a Code Editor
 
-+Features
--Add a ToDo
--Remove 
--Localstorage functionality using the DOM
--Dark Mode feature
 
 Feel free to modify
 
